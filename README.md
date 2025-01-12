@@ -9,8 +9,8 @@
 ## 🚀 Habilidades
 
 ### Lenguajes de Programación
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**: Análisis de datos, machine learning, desarrollo web y automatización.
-- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) **R**: Modelado estadístico, análisis avanzado y visualización de datos.
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**: Análisis de datos, machine learning y automatización de procesos.
+- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) **R**: Modelado estadístico y visualización de datos.
 
 ### Herramientas y Tecnologías
 - ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) **Power BI**: Creación de dashboards interactivos y visualización avanzada de datos.
