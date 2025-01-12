@@ -14,7 +14,7 @@
 
 ### Herramientas y Tecnologías
 - ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) **Power BI**: Creación de dashboards interactivos y visualización avanzada de datos.
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) **SQL**: Consulta, modelado y manejo de bases de datos.
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) **SQL**: Vistas, Consultas y subconsultas.
 - ![Minitab](https://img.shields.io/badge/Minitab-0073CF?style=for-the-badge&logo=minitab&logoColor=white) **Minitab**: Análisis estadístico, diseño de experimentos y control de calidad.
 
 ### Competencias Especializadas
