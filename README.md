@@ -10,16 +10,17 @@
 ¡Hola! Soy un **Ingeniero Estadístico** especializado como **Data Scientist**. En el sector agroindustrial, me apasiona transformar datos en conocimiento y tomar decisiones basadas en análisis rigurosos. Tengo experiencia en herramientas y lenguajes clave para el análisis, la visualización y la modelización de datos.
 
 ## 🚀 Habilidades
-
-### Lenguajes de Programación
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**: Análisis de datos, machine learning y automatización de procesos.
-- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) **R**: Modelado estadístico y visualización de datos.
+### Herramientas y Tecnologías
+Aquí está el texto actualizado con solo logos y sin textos adicionales:
 
 ### Herramientas y Tecnologías
-- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) **Power BI**: Creación de dashboards interactivos y visualización avanzada de datos.
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) **SQL**: Vistas, Consultas y subconsultas.
-- ![Minitab](https://img.shields.io/badge/Minitab-0073CF?style=for-the-badge&logo=minitab&logoColor=white) **Minitab**: Análisis estadístico, diseño de experimentos y control de calidad.
 
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![Minitab](https://img.shields.io/badge/Minitab-0073CF?style=for-the-badge&logo=minitab&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+- ![SPSS](https://img.shields.io/badge/SPSS-0033A0?style=for-the-badge&logo=ibm&logoColor=white)
 ### Competencias Especializadas
 - 📊 **Análisis Predictivo**: Uso de algoritmos de machine learning para prever tendencias y patrones.
 - 🔍 **Exploración de Datos**: Identificación de insights clave en grandes volúmenes de datos.
