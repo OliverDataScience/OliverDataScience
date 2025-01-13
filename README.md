@@ -16,9 +16,8 @@
 ![QlikView](https://img.shields.io/badge/QlikView-3ECC94?style=for-the-badge&logo=qlik&logoColor=white)
 ### Competencias Especializadas
 - 📊 **Análisis Predictivo**: Uso de algoritmos de machine learning para prever tendencias y patrones.
-- 🔍 **Exploración de Datos**: Identificación de insights clave en grandes volúmenes de datos.
+- 🔍 **Exploración de Datos(EDA)**: Identificación de insights clave en grandes volúmenes de datos.
 - 🧠 **Machine Learning**: Implementación de modelos supervisados y no supervisados.
-- 📉 **Estadística Aplicada**: Resolución de problemas complejos utilizando métodos estadísticos avanzados.
 
 ## 📂 Proyectos Destacados
 1. **[Análisis Predictivo con Python](#)**:Desarrolle Modelo de serie de tiempo para el pronóstico de la producción por cultivo en Python.
